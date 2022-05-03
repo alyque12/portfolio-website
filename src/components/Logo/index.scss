@@ -1,0 +1,36 @@
+.logo-container {
+    z-index: 0;
+    width: 590px;
+    height: 810px;
+    position: absolute;
+    top: 0;
+    right: 10%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    opacity: 1;
+
+    svg {
+        width: 100%;
+        height: auto;
+        bottom: 0;
+        transform: rotateZ(-30deg);
+    }
+}
+
+.path {
+    stroke-dasharray: 1500;
+    stroke-dashoffset: 2000;
+    animation: dash 5.5s linear forwards;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+.svg-container {
+    stroke: #ffd700;
+    stroke-width: 1;
+}
