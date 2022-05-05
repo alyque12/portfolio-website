@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.ff078df3.css",
+    "main.js": "/portfolio-website/static/js/main.710d1031.js",
+    "static/js/787.2331bdc4.chunk.js": "/portfolio-website/static/js/787.2331bdc4.chunk.js",
+    "static/media/logo_alyque_colour.png": "/portfolio-website/static/media/logo_alyque_colour.04ba72bef6d109c69e1e.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/portfolio-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio-website/index.html",
+    "main.ff078df3.css.map": "/portfolio-website/static/css/main.ff078df3.css.map",
+    "main.710d1031.js.map": "/portfolio-website/static/js/main.710d1031.js.map",
+    "787.2331bdc4.chunk.js.map": "/portfolio-website/static/js/787.2331bdc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff078df3.css",
+    "static/js/main.710d1031.js"
+  ]
+}
